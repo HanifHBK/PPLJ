@@ -33,8 +33,8 @@ The system is designed with three main components:
 | `Client1_Raspi.py`      | Client 1 (Raspberry Pi, Python Tkinter GUI)   |
 | `Client2_NodeMCU.ino`   | Client 2 (NodeMCU + DHT22 sensor, Arduino IDE)|
 | `Dummy.py`              | Dummy client for testing                      |
-| `Server.py`             | Main server implementation (Flask + Socket)   |
-| `Server_Komputer.py`    | Alternate server file (same as Server.py)     |
+| `Server.py`             | Alternate server implementation               |
+| `Server_Komputer.py`    | Main server file (Flask + Socket)             |
 | `ac_temperature.txt`    | AC temperature log file                       |
 | `user.csv`              | User credentials (username, password)         |
 | `data_*.csv`            | Logged temperature data with timestamps       |
