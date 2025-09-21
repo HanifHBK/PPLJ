@@ -62,22 +62,23 @@ The system is designed with three main components:
 ```bash
 python3 Server.py
 ```
-Runs Flask HTTP server on port 80
-Opens Socket server on port 11000 for NodeMCU
+- Runs Flask HTTP server on port 80
+- Opens Socket server on port 11000 for NodeMCU
 ### 2. Run Client 1 (Raspberry Pi)
 ```bash
 python3 Client1_Raspi.py
 ```
 Launches GUI application with login, monitoring, and AC control features.
+
 3. Deploy Client 2 (NodeMCU)
-Open Client2_NodeMCU.ino in Arduino IDE.
-Configure WiFi SSID and password.
-Upload to NodeMCU V3 (ESP8266) with DHT22 sensor attached.
+- Open Client2_NodeMCU.ino in Arduino IDE.
+- Configure WiFi SSID and password.
+- Upload to NodeMCU V3 (ESP8266) with DHT22 sensor attached.
 
 ## Contributors
-Server (Python + Flask) – Muhammad Hanif Hibatullah
-Client 1 (Raspberry Pi GUI) – Samuel Benyamin Niman
-Client 2 (NodeMCU + DHT22) – Bayu Aji Nugroho
+- Server (Python + Flask) – Muhammad Hanif Hibatullah
+- Client 1 (Raspberry Pi GUI) – Samuel Benyamin Niman
+- Client 2 (NodeMCU + DHT22) – Bayu Aji Nugroho
 
 ## License
 This project was developed for academic purposes as part of EL4236 – Network Software Design at Institut Teknologi Bandung.
