@@ -1,0 +1,18 @@
+Log File Client admin:
+127.0.0.1 - - [06/Jun/2024 16:21:08] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jun/2024 16:25:11] "POST /current_temperature HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jun/2024 16:26:00] "POST /temperature HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jun/2024 16:26:41] "POST /control/current HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jun/2024 16:26:47] "POST /control/UP HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jun/2024 16:26:50] "POST /control/UP HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jun/2024 16:26:52] "POST /control/UP HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jun/2024 16:42:38] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jun/2024 16:51:06] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jun/2024 16:51:10] "POST /temperature HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jun/2024 16:51:15] "POST /temperature HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jun/2024 16:51:19] "POST /temperature HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jun/2024 16:54:40] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jun/2024 16:54:45] "POST /temperature HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jun/2024 16:55:06] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jun/2024 17:04:50] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jun/2024 17:09:25] "POST /requestlogweb HTTP/1.1" 200 -
