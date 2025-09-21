@@ -70,7 +70,7 @@ python3 Client1_Raspi.py
 ```
 Launches GUI application with login, monitoring, and AC control features.
 
-3. Deploy Client 2 (NodeMCU)
+### 3. Deploy Client 2 (NodeMCU)
 - Open Client2_NodeMCU.ino in Arduino IDE.
 - Configure WiFi SSID and password.
 - Upload to NodeMCU V3 (ESP8266) with DHT22 sensor attached.
