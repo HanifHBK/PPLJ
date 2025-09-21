@@ -1,4 +1,4 @@
-<img width="902" height="517" alt="image" src="https://github.com/user-attachments/assets/3c338b61-0e3d-4aaa-a1fb-5d6b8a58f1ad" /># Temperature Monitoring and Air Conditioner Control System
+# Temperature Monitoring and Air Conditioner Control System
 
 This repository contains the implementation of a **Temperature Monitoring and Control Application**, developed as part of the **EL4236 – Network Software Design** course project at Institut Teknologi Bandung.  
 
